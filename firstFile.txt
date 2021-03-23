@@ -1,0 +1,8 @@
+Hello!
+
+I am the text from the first file inside the first folder 
+inside the first repository on GitHub.
+
+Thank you, firstText
+
+ :)
